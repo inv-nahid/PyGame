@@ -63,7 +63,3 @@ Multiplayer Mode: Enable two-player mode using dual-hand tracking.
 
 Contributing
 Contributions are welcome! Fork the repository, create a branch, and submit a pull request with your changes.
-License
-This project is licensed under the MIT License.
-Contact
-For inquiries, reach out via email: your.email@example.com.
